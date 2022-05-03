@@ -9,11 +9,11 @@ Typisk bliver kodning og teknologi generelt associeret med det at være mand ell
 Vælger man English i steddet for dansk kan man vælge mellem flere slags spil.
 
 
-#### [python](python/python.md)
+#### [python](python/README.md)
 
 
-#### Styresystem
-[Styrestystem](styresystem.md)
+#### [Styrestystem](styresystem.md)
+
 
 #### Git
 
