@@ -10,3 +10,12 @@ Typisk bliver kodning og teknologi generelt associeret med det at være mand ell
 
 Vælger man English i steddet for dansk kan man vælge mellem flere slags spil.
 
+
+#### Python
+
+Python er et meget udbredt programmeringssprog. Python er ikke et program man kan downloade men et sprog man kan skrive i ligesom dansk eller matematik.
+
+#### Styresystem
+
+
+
