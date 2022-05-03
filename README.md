@@ -15,9 +15,8 @@ Vælger man English i steddet for dansk kan man vælge mellem flere slags spil.
 #### [Styrestystem](styresystem.md)
 
 
-#### Git
+#### [Git](git/README.md)
 
-Du befinder dig lige nu i et såkaldt github repository (også kaldet et git repo). Den mærkelige hvide hjemmeside der viser denne tekst hedder github og alle kan lave en bruger og lave deres eget github repository - helt gratis og uden reklamer.
 
 
 
